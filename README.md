@@ -14,15 +14,19 @@ Using UPGMA: Please use basic FASTA format for DNA strands in "3.in.txt"
 GTTAAACATCTCCTC
 
 \>S2
+
 GTGAAACAACATGAC
 
 \>S3
+
 GTTAAACATGTGGAC
 
 \>S4
+
 GCACAGATGTCGCCT
 
 \>S5
+
 GTCTTACTGGCATGA
 
 
