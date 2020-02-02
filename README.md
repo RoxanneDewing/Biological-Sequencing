@@ -8,7 +8,7 @@ Using Local/Global alignment algorithms (Smith-waterman or Needlemen-Wunsch) ple
 
 
 Using UPGMA: Please use basic FASTA format for DNA strands in "3.in.txt"
-  
+'''markdown
 \>S1
 
 GTTAAACATCTCCTC
@@ -29,5 +29,5 @@ GCACAGATGTCGCCT
 
 GTCTTACTGGCATGA
 
-
+'''
 
